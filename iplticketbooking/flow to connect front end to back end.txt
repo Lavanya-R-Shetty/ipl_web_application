@@ -1,0 +1,21 @@
+FLOW OF FRONTEND TO BACKEND INTEGRATION
+- document.ready()
+- attach event listener to the form
+- e.preventDefault();
+- load the form data inside javascript variable
+- send the xml query to the backend
+- display the success message
+
+**************************************************************************
+Exaplaination of script part
+$ is a selector and used for manipulate the html things
+
+**queryString allows us to send the data in the form of url
+** ajax is used to send the data to the server without reloading
+
+* types of request
+  put
+  get
+  post
+  delete
+
